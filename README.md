@@ -1,6 +1,7 @@
 # Predict customer lifetime value with linear regression
 
 ## Introduction
+This is a source code for a Medium blog post "Predict Customer Lifetime Value with Machine Learning".
 
 ### CLTV
 **Customer Lifetime Value (CLTV)** represents the total amount of money a customer is expected to spend in a business during his/her lifetime. This is an important metric to monitor because it helps to make decisions about how much money to invest in acquiring new customers and retaining existing ones.
