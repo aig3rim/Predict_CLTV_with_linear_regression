@@ -1,4 +1,4 @@
-# Predict_CLTV_with_linear_regression
+# Predict customer lifetime value with linear regression
 
 ## Introduction
 
