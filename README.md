@@ -21,6 +21,6 @@ You need an installation of Python, plus the following libraries:
 
 ## Summary and key findings
 * Based on the data analysis, we found that the repeat customers tend to make about 12 purchases or less within a year and the majority of repeat customers tend to make a purchase every 12 to 50 days
-* We predicted 3 months CLTV for customers of the online retail using linear regression
+* We predicted 3 month CLTV for customers of the online retail using linear regression
 * R-squared value for the test set is 0.71, which is not great but it is a good benchmark to try other regression models such as Epsilon-Support Vector Regression and Random Forest Regressor
 * By knowing CLTV, we can develop positive ROI strategies and make decisions about how much money to invest in acquiring new customers and retaining existing ones.
